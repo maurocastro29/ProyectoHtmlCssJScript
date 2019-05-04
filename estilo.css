@@ -1,0 +1,95 @@
+.principal{
+    background: #F2F2F2;
+}
+header{
+    padding: 20px;
+    font: italic;
+    background-color: #CEF6EC;
+    height: 200px;
+}
+
+nav{
+    inline-size: auto;
+    background-color:#6FB976; 
+    padding: auto;
+    margin: auto;
+    width: 100%;
+    height: auto;
+
+}
+
+ul{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+    
+li{
+    display: inline;
+    line-height: 20px;
+    margin-right:1px;
+    padding: 1%;
+    background-color:#2874a6;  
+}
+ li a{
+     display: inline-block;
+     color: white;
+     text-align: center;
+     padding: 14px ;
+     text-decoration: none;
+ }
+
+ h5{
+     text-align: center;
+ }
+ section{
+width: 60%;
+float: left;
+ }
+ aside{
+    width: 31%;
+    float: left;
+    margin-left: 13px;
+ }
+ #tPropietario{
+   width: 70%;
+   padding: 2%;
+   margin-left: 5px;
+   background: #bdbdbd;
+   border: 0.5px solid black;
+}
+.tabla tr td{
+    background-color: white;
+
+}
+.contenedor{
+    width: 80%;
+    margin-left: 10%;
+}
+.baner{
+    position: relative;
+    text-align: center;
+    top: 60px;
+}
+
+#Add-Propietario{
+    width: 70%;
+    text-align: center;
+}
+section{
+    display: inline-block;
+} 
+aside{
+    align-items: center;
+    background-color: rgb(115, 233, 99);
+}
+#Add-Mascota{
+    width: 70%;
+    text-align: center;
+}
+#tMascota{
+    width: 70%;
+    text-align: center;
+    
+}
